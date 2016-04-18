@@ -9,6 +9,11 @@
   margin: 50px auto;
 }
 
+#alteracao{
+  font-family: Sans-Serif;
+  color: green;
+}
+
 p {
   display: block;
   width: 400px;
